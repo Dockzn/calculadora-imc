@@ -29,7 +29,7 @@ form.addEventListener('submit', function(event) {
     }else if(bmi > 35 && bmi <= 40){
         description = "Cuidado, você está com obesidade severa."
     }else{
-        description = "Cuidado, você está com obesidade morbida."
+        description = "Cuidado, você está com obesidade mórbida."
     }
 
     value.textContent = bmi.replace('.',',')

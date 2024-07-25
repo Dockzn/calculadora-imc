@@ -173,6 +173,15 @@ body{
     color: #dc2626;
 }
 
+footer{
+    position: absolute;
+    margin-top: 94vh;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: #cbd5e1;
+}
+
 @media screen and (max-width:600px){
     main{
         display: flex;
@@ -199,4 +208,5 @@ body{
     #img img{
         width: 20rem;
     }
+
 }
