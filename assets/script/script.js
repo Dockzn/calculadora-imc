@@ -20,7 +20,7 @@ form.addEventListener('submit', function(event) {
         description = "Cuidado, você está abaixo do peso."
     }else if( bmi >= 18.5 && bmi <= 25){
         description = "Você está no peso ideal."
-        value.classList.remove('normal')
+        value.classList.remove('attention')
         value.classList.add('normal')
     }else if( bmi > 25 && bmi <= 30){
         description = "Cuidado, você está com sobrepeso."
