@@ -36,5 +36,5 @@ Siga os passos abaixo para contribuir com o projeto:
 5. Abra um Pull Request.
 
 ## Agradecimentos
-- Agradecimento especial à [Larissa Kich](https://www.youtube.com/channel/UCfGg0trN-GaZHChn4odltUQ) pelo ensino deste projeto.
+- Agradecimento especial à [Larissa Kich]([https://www.youtube.com/channel/UCfGg0trN-GaZHChn4odltUQ](https://www.youtube.com/@larissakich)) pelo ensino deste projeto.
 
